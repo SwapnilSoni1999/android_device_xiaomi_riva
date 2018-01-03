@@ -19,4 +19,4 @@ Rear Camera  | 13.0 MP, f/2.2, LED flash
 Front Camera | 5.0 MP, f/2.0
 Release Date | December 2017
 
-![Xiaomi Redmi 3S/Prime/3X](https://cdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-5a.jpg "Xiaomi Redmi 3S/Prime/3X")
+![Xiaomi Redmi 5A](https://cdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-5a.jpg "Xiaomi Redmi 5A")
